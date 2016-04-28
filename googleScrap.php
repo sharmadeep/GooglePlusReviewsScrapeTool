@@ -1,4 +1,5 @@
 <?php
+//update version for this
 ini_set('max_execution_time', 90000);
 function curl($url)
 {
